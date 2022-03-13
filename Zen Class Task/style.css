@@ -1,0 +1,23 @@
+
+body{
+    height: 100vh !important;
+}
+.font-sty{
+    font-family: 'Roboto', sans-serif !important;
+   
+}
+
+ .num-size{
+    font-size: 50px !important;
+}
+.bg-image{
+    background-image: url("./assets/banner.png");
+}
+.bor-dash{
+    
+    border-right-style: dashed ; 
+ }
+ .color{
+     color: #205E89 !important;
+ }
+ 
